@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AppMedia]]></title>
         <description><![CDATA[AppMedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/appmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 18:45:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 18:47:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/appmedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57f4bed4-4878-40df-a017-e26ab227906a.gif">]]></description>
+            <link>https://thegrid.ai/appmedia/dette-er-en-test/index.html</link>
+            <guid isPermaLink="false">ffde246e-0259-4d2a-a78b-664fe2083554</guid>
+            <pubDate>Wed, 25 May 2016 18:47:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e635781-cab4-4d2d-ac87-6cec0e74d5c8.jpg">]]></description>
-            <link>undefineddette-er-post-nummer-2-som-jeg-tester-ut/index.html</link>
+            <link>https://thegrid.ai/appmedia/dette-er-post-nummer-2-som-jeg-tester-ut/index.html</link>
             <guid isPermaLink="false">8c34ea10-6241-4a4c-8148-714111d4f7c7</guid>
             <pubDate>Wed, 25 May 2016 18:43:11 GMT</pubDate>
         </item>
