@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AppMedia]]></title>
-        <description><![CDATA[AppMedia]]></description>
+        <title><![CDATA[Min lille blogg]]></title>
+        <description><![CDATA[Min lille blogg]]></description>
         <link>https://thegrid.ai/appmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 18:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 18:53:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/appmedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://app.thegrid.io/sites/ec5d519c-4505-4d13-bf25-1b195e68c556/design</p>]]></description>
+            <link>https://thegrid.ai/appmedia/httpsappthegridiositesec5d519c-4505-4d13-bf25-1b195e6/index.html</link>
+            <guid isPermaLink="false">cce7fe77-0146-4657-9652-4033bb383e6f</guid>
+            <pubDate>Wed, 25 May 2016 18:52:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57f4bed4-4878-40df-a017-e26ab227906a.gif">]]></description>
