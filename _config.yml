@@ -1,0 +1,14 @@
+layout_spectrum: 0.2845149
+typography_spectrum: 0.1114739
+color:
+  saturation: 0.1807228
+  lightness: 0.7986256
+  brandStrength: 0.6926306
+  brandColors:
+    - '#FFFFFF'
+    - '#6798FE'
+    - '#0084FF'
+    - '#14243D'
+    - '#CE8B6E'
+  rhythmicContrast: 0.2564884
+name: AppMedia
