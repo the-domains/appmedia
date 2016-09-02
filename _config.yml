@@ -1,20 +1,4 @@
-name: AppMedia
-favicon: null
-layout_spectrum: 0.2845149
 typography_spectrum: 0.53885
-title: Min lille blogg
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -26,4 +10,20 @@ color:
   lightness: 0.0625
   saturation: 0.75
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2845149
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: AppMedia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Apploggen
 purpose: []
